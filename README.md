@@ -1,0 +1,2 @@
+# CharityVerse
+A hackathon project
